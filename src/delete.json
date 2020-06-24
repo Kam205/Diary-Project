@@ -1,0 +1,590 @@
+{
+  "value": {
+    "agreement": {
+      "externalReferenceAlpha": null,
+      "product": {
+        "productType": "TOWPRD.LI6303",
+        "labels": {
+          "label": [
+            {
+              "labelReference": null,
+              "fieldName": "Product",
+              "sequenceNumber": 1,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  {
+                    "languageCode": "TCLANG.1",
+                    "labelText": "Plan épargne assurance G"
+                  }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": "LkJUPsKrT1fCqMK+woHCkyfDrXLDrHFIw4oFG0Q2w7cRwqAXw4nCusKRw4MUw5USZjfCpGrCm8ODwprCjn0+w6/DmA1aw5vCjMKiWApawqsAwolvwqhLw5/DsgXCn8OxMSxTw7jDgMOQwqRsV8KNN8OHFMKow7bCmXzDujzCqcO7DUpnwqRBwqVcQ8KkNMOXUSTCncKhWSXDqAh0woTDmMKGb0PCocKPw6xPwoExV0gcw5cBdcKyw6VjH8OhEg==",
+              "fieldName": "ContractRef",
+              "sequenceNumber": 1,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  { "languageCode": "TCLANG.1", "labelText": "003-9748710-50" }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": null,
+              "fieldName": "KeyInfoHeader",
+              "sequenceNumber": 1,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  { "languageCode": "TCLANG.1", "labelText": "Valeur projetée" }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": null,
+              "fieldName": "KeyInforValue",
+              "sequenceNumber": 1,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  { "languageCode": "TCLANG.1", "labelText": "_VAR1 _VAR2" }
+                ]
+              },
+              "variables": {
+                "variable": [
+                  {
+                    "id": "_VAR1",
+                    "type": "TOTLBL.000004",
+                    "value": "+76816.650"
+                  },
+                  { "id": "_VAR2", "type": "TOTLBL.000001", "value": "EUR" }
+                ]
+              }
+            },
+            {
+              "labelReference": null,
+              "fieldName": "KeyInfoHeader",
+              "sequenceNumber": 2,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  { "languageCode": "TCLANG.1", "labelText": "Assuré(e)" }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": null,
+              "fieldName": "KeyInforValue",
+              "sequenceNumber": 2,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  { "languageCode": "TCLANG.1", "labelText": "Cuadres Nasmi" }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": null,
+              "fieldName": "KeyInfoHeader",
+              "sequenceNumber": 3,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  {
+                    "languageCode": "TCLANG.1",
+                    "labelText": "Type d'assurance"
+                  }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": null,
+              "fieldName": "KeyInforValue",
+              "sequenceNumber": 3,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  {
+                    "languageCode": "TCLANG.1",
+                    "labelText": "Assurance-vie avec taux d'intérêt garanti (branche 21)"
+                  }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": null,
+              "fieldName": "KeyInfoHeader",
+              "sequenceNumber": 4,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  {
+                    "languageCode": "TCLANG.1",
+                    "labelText": "Fin de la garantie"
+                  }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": null,
+              "fieldName": "KeyInforValue",
+              "sequenceNumber": 4,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [{ "languageCode": "TCLANG.1", "labelText": "_VAR1" }]
+              },
+              "variables": {
+                "variable": [
+                  {
+                    "id": "_VAR1",
+                    "type": "TOTLBL.000006",
+                    "value": "2022-06-06"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "party": {
+        "primeRole": null,
+        "labels": {
+          "label": [
+            {
+              "fieldName": "PartyName",
+              "sequenceNumber": 1,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  { "languageCode": "TCLANG.1", "labelText": "CUADRES NASMI" }
+                ]
+              }
+            }
+          ]
+        },
+        "partyExternalReference": null
+      },
+      "moneyProvision": {
+        "paymentModeCode": null,
+        "amount": null,
+        "currencyCode": null,
+        "periodicityCode": null,
+        "fundsSummary": { "labels": null },
+        "labels": {
+          "label": [
+            {
+              "labelReference": null,
+              "fieldName": "HeaderPremiums",
+              "sequenceNumber": 1,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  { "languageCode": "TCLANG.1", "labelText": "Mes versements" }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": null,
+              "fieldName": "ComplInformat",
+              "sequenceNumber": 1,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  {
+                    "languageCode": "TCLANG.1",
+                    "labelText": "Mes versements donnent droit à une réduction d'impôt dans le cadre de l'épargne à long terme."
+                  }
+                ]
+              },
+              "variables": null
+            },
+            {
+              "labelReference": null,
+              "fieldName": "ComplInformat",
+              "sequenceNumber": 2,
+              "typeLabelCode": "TOTLBL.000001",
+              "texts": {
+                "text": [
+                  {
+                    "languageCode": "TCLANG.1",
+                    "labelText": "Je peux planifier des versements réguliers."
+                  }
+                ]
+              },
+              "variables": null
+            }
+          ]
+        }
+      },
+      "withdrawalPlanLife": null,
+      "ilRedemption": null,
+      "labels": {
+        "label": [
+          {
+            "labelReference": null,
+            "fieldName": "Discriminator",
+            "sequenceNumber": 1,
+            "typeLabelCode": "TOTLBL.000001",
+            "texts": {
+              "text": [
+                { "languageCode": "TCLANG.1", "labelText": "Valeur actuelle" }
+              ]
+            },
+            "variables": null
+          },
+          {
+            "labelReference": null,
+            "fieldName": "DiscriminatorValue",
+            "sequenceNumber": 1,
+            "typeLabelCode": "TOTLBL.000001",
+            "texts": {
+              "text": [
+                { "languageCode": "TCLANG.1", "labelText": "_VAR1 _VAR2" }
+              ]
+            },
+            "variables": {
+              "variable": [
+                {
+                  "id": "_VAR1",
+                  "type": "TOTLBL.000004",
+                  "value": "+70343.310"
+                },
+                { "id": "_VAR2", "type": "TOTLBL.000001", "value": "EUR" }
+              ]
+            }
+          },
+          {
+            "labelReference": null,
+            "fieldName": "HeaderRisk",
+            "sequenceNumber": 1,
+            "typeLabelCode": "TOTLBL.000001",
+            "texts": {
+              "text": [
+                { "languageCode": "TCLANG.1", "labelText": "Mes garanties" }
+              ]
+            },
+            "variables": null
+          }
+        ]
+      },
+      "notifications": { "notification": [] },
+      "risks": {
+        "risk": [
+          {
+            "labels": { "label": [] },
+            "coverages": {
+              "coverage": [
+                {
+                  "guaranteeTypeCode": "TOTYPG.000000",
+                  "isCovered": null,
+                  "labels": {
+                    "label": [
+                      {
+                        "labelReference": null,
+                        "fieldName": "CoverageName",
+                        "sequenceNumber": 1,
+                        "typeLabelCode": "TOTLBL.000001",
+                        "texts": {
+                          "text": [
+                            { "languageCode": "TCLANG.1", "labelText": "Vie" }
+                          ]
+                        },
+                        "variables": null
+                      },
+                      {
+                        "labelReference": null,
+                        "fieldName": "CoverageDescr",
+                        "sequenceNumber": 1,
+                        "typeLabelCode": "TOTLBL.000001",
+                        "texts": {
+                          "text": [
+                            {
+                              "languageCode": "TCLANG.1",
+                              "labelText": "En cas de vie au _EndDateGarLife: _CapitalGarLife _Devise"
+                            }
+                          ]
+                        },
+                        "variables": {
+                          "variable": [
+                            {
+                              "id": "_EndDateGarLife",
+                              "type": "TOTLBL.000006",
+                              "value": "2022-06-06"
+                            },
+                            {
+                              "id": "_CapitalGarLife",
+                              "type": "TOTLBL.000004",
+                              "value": "+76816.650"
+                            },
+                            {
+                              "id": "_Devise",
+                              "type": "TOTLBL.000001",
+                              "value": "EUR"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "labelReference": null,
+                        "fieldName": "CoverageDescr",
+                        "sequenceNumber": 2,
+                        "typeLabelCode": "TOTLBL.000009",
+                        "texts": {
+                          "text": [
+                            {
+                              "languageCode": "TCLANG.1",
+                              "labelText": "Bénéficiaire: _Beneficiary01 _Beneficiary02 _Beneficiary03"
+                            }
+                          ]
+                        },
+                        "variables": {
+                          "variable": [
+                            {
+                              "id": "_Beneficiary01",
+                              "type": "TOTLBL.000002",
+                              "value": "Bij leven: de verzekeringsnemer."
+                            },
+                            {
+                              "id": "_Beneficiary02",
+                              "type": "TOTLBL.000002",
+                              "value": "Bij overlijden: de echtgenote van de verzekerde. Bij ontstentenis: de kinderen van de verzekerde, al dan niet reeds geboren."
+                            },
+                            {
+                              "id": "_Beneficiary03",
+                              "type": "TOTLBL.000002",
+                              "value": "Bij ontstentenis: de wettige erfgenamen van de verzekerde."
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "notifications": { "notification": [] }
+                },
+                {
+                  "guaranteeTypeCode": "TOTYPG.000000",
+                  "isCovered": null,
+                  "labels": {
+                    "label": [
+                      {
+                        "labelReference": null,
+                        "fieldName": "CoverageName",
+                        "sequenceNumber": 1,
+                        "typeLabelCode": "TOTLBL.000001",
+                        "texts": {
+                          "text": [
+                            { "languageCode": "TCLANG.1", "labelText": "Décès" }
+                          ]
+                        },
+                        "variables": null
+                      },
+                      {
+                        "labelReference": null,
+                        "fieldName": "CoverageDescr",
+                        "sequenceNumber": 1,
+                        "typeLabelCode": "TOTLBL.000001",
+                        "texts": {
+                          "text": [
+                            {
+                              "languageCode": "TCLANG.1",
+                              "labelText": "En cas de décès avant le _EndDateGarDec: _CapitalGarDec _Devise"
+                            }
+                          ]
+                        },
+                        "variables": {
+                          "variable": [
+                            {
+                              "id": "_EndDateGarDec",
+                              "type": "TOTLBL.000006",
+                              "value": "2022-06-06"
+                            },
+                            {
+                              "id": "_CapitalGarDec",
+                              "type": "TOTLBL.000004",
+                              "value": "+70343.310"
+                            },
+                            {
+                              "id": "_Devise",
+                              "type": "TOTLBL.000001",
+                              "value": "EUR"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "labelReference": null,
+                        "fieldName": "CoverageDescr",
+                        "sequenceNumber": 2,
+                        "typeLabelCode": "TOTLBL.000009",
+                        "texts": {
+                          "text": [
+                            {
+                              "languageCode": "TCLANG.1",
+                              "labelText": "Bénéficiaire: _Beneficiary01 _Beneficiary02 _Beneficiary03"
+                            }
+                          ]
+                        },
+                        "variables": {
+                          "variable": [
+                            {
+                              "id": "_Beneficiary01",
+                              "type": "TOTLBL.000002",
+                              "value": "Bij leven: de verzekeringsnemer."
+                            },
+                            {
+                              "id": "_Beneficiary02",
+                              "type": "TOTLBL.000002",
+                              "value": "Bij overlijden: de echtgenote van de verzekerde. Bij ontstentenis: de kinderen van de verzekerde, al dan niet reeds geboren."
+                            },
+                            {
+                              "id": "_Beneficiary03",
+                              "type": "TOTLBL.000002",
+                              "value": "Bij ontstentenis: de wettige erfgenamen van de verzekerde."
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "notifications": { "notification": [] }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "docs": {
+        "doc": [
+          {
+            "type": "",
+            "documentQualifier": "TCCRDC.LI1001",
+            "formattingSystem": "TCFSYS.IGZZZZ",
+            "docOrderWithinDis": 1,
+            "process": {
+              "actionCode": "TOTACT.95",
+              "processobjects": {
+                "processobject": [
+                  {
+                    "objectReferenceAlphanumeric": "LkJUPsKrT1fCqMK+woHCkyfDrXLDrHHCicO3dcOdf8O2wo/DuMKAdcODw6DDiMKWSUsdT8KGw61rw60Ew44jwqDCj8KZwpzDssOmE8K3wovDtcOuR8OGO1h9w7vCvsODw7zDl0jDm8KzA2p2FzLDgcOPwpXCnAjDgXfDs8OYw4pXSGh4QRlywqfClUtNw7/CoMOewo9hw6lXwozDk8KQw4PClMKowqgvwqXCnzFuwo5ZFcKGw4zDgTINXiArwp/DpnJAw4DCvWcgDcOZPsOCGMOrwqV3WMO4KRlow6ZQw4TCgMO1SGvDk3V/IsKnwosURllcwpjDsMOHJcK7wpANw7XDuHXCvzLCjibDhh/Cp2TDgMOWw73Do1/CoQQew7k+d8O4wr/DrjM=",
+                    "objectTypeCode": "TOTYOB.000001"
+                  }
+                ]
+              }
+            },
+            "labels": {
+              "label": [
+                {
+                  "fieldName": "DocCategory",
+                  "sequenceNumber": 1,
+                  "typeLabelCode": "TOTLBL.000001",
+                  "texts": {
+                    "text": [
+                      { "languageCode": "TCLANG.1", "labelText": "2018" }
+                    ]
+                  }
+                },
+                {
+                  "fieldName": "DocName",
+                  "sequenceNumber": 1,
+                  "typeLabelCode": "TOTLBL.000001",
+                  "texts": {
+                    "text": [
+                      {
+                        "languageCode": "TCLANG.1",
+                        "labelText": "Fiche 281.62"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "fieldName": "DocSuffix",
+                  "sequenceNumber": 1,
+                  "typeLabelCode": "TOTLBL.000006",
+                  "texts": {
+                    "text": [
+                      { "languageCode": "TCLANG.1", "labelText": "2018-12-31" }
+                    ]
+                  }
+                }
+              ]
+            },
+            "idxs": {
+              "idx": [
+                {
+                  "idxType": "AE00DJ",
+                  "idxDataType": "01",
+                  "idxValue": "509711781100000"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "rules": {
+        "rule": [
+          {
+            "id": "TOTACT.B1",
+            "value": false,
+            "label": [
+              {
+                "labelReference": null,
+                "fieldName": "PaymentButton",
+                "sequenceNumber": 1,
+                "typeLabelCode": "TOTLBL.000001",
+                "texts": {
+                  "text": [{ "languageCode": "TCLANG.1", "labelText": "Payer" }]
+                },
+                "variables": null
+              }
+            ]
+          },
+          {
+            "id": "TOTACT.B2",
+            "value": false,
+            "label": [
+              {
+                "labelReference": null,
+                "fieldName": "PaymentButton",
+                "sequenceNumber": 1,
+                "typeLabelCode": "TOTLBL.000001",
+                "texts": {
+                  "text": [
+                    { "languageCode": "TCLANG.1", "labelText": "Verser" }
+                  ]
+                },
+                "variables": null
+              }
+            ]
+          },
+          { "id": "isFinancialHistoryAvailab", "value": false, "label": [] },
+          { "id": "IsOptimizationAllowed", "value": false, "label": [] },
+          { "id": "IsOptimizationAllowedNow", "value": false, "label": [] },
+          { "id": "IsTaxSpreadingApplicable", "value": false, "label": [] }
+        ]
+      }
+    },
+    "businessreport": {
+      "numberOfNotifications": 0,
+      "numberOfErrors": 0,
+      "numberOfWarnings": 0,
+      "businesReportMessages": { "businessReportMessage": [] }
+    }
+  },
+  "businessMessageBulk": {
+    "messages": [],
+    "pewCode": null,
+    "globalIndicator": null,
+    "text": null
+  }
+}
